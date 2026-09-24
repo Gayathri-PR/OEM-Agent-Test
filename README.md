@@ -150,8 +150,8 @@ Request periodic maintenance or report a service issue\. Provide the registratio
 
 - The project uses real Zoho CRM data when `USE_MOCK_CRM=false`\.
 - Gemini handles the conversation and decides when a tool is required\.
-
-- <img width="977" height="747" alt="image" src="https://github.com/user-attachments/assets/964f8579-e7eb-4ef5-ba24-331bed0040c7" />
-
 - CRM information is retrieved through backend tools rather than being invented by the assistant\.
 - API keys, OAuth secrets and refresh tokens should be kept out of source control\.
+
+## Diagram
+<img width="977" height="747" alt="image" src="https://github.com/user-attachments/assets/964f8579-e7eb-4ef5-ba24-331bed0040c7" />
